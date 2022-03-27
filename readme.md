@@ -1,0 +1,10 @@
+# Mosh firewall rules script
+
+Fix the issue of mosh on mac os, credits goes to https://gist.github.com/luong-komorebi/834209c731a4bdb3f98748402556419f
+
+
+# Usage
+
+Place the script in `/usr/local/bin` 
+
+> Note please read the script before downloading it and installing it 
