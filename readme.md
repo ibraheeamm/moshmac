@@ -5,6 +5,4 @@ Fix the issue of mosh on mac os, credits goes to https://gist.github.com/luong-k
 
 # Usage
 
-Place the script in `/usr/local/bin` 
-
-> Note please read the script before downloading it and installing it 
+Run the script when your machine restarts please read the script before downloading it and installing it 
